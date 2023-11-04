@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,Q as o}from"./chunks/framework.a7175731.js";const u=JSON.parse('{"title":"投稿指南","description":"","frontmatter":{},"headers":[],"relativePath":"api-examples.md","filePath":"api-examples.md"}'),p={name:"api-examples.md"},c=o("",8),s=[c];function _(l,n,r,i,x,d){return t(),a("div",null,s)}const h=e(p,[["render",_]]);export{u as __pageData,h as default};
